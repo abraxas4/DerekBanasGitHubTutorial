@@ -2,3 +2,4 @@ E:\Dev\DuplicatedChar\DuplicatedChar\bin\Debug\DuplicatedChar.exe
 E:\Dev\DuplicatedChar\DuplicatedChar\bin\Debug\DuplicatedChar.pdb
 E:\Dev\DuplicatedChar\DuplicatedChar\obj\x86\Debug\DuplicatedChar.exe
 E:\Dev\DuplicatedChar\DuplicatedChar\obj\x86\Debug\DuplicatedChar.pdb
+E:\Dev\DuplicatedChar\DuplicatedChar\obj\x86\Debug\DuplicatedChar.csprojResolveAssemblyReference.cache
